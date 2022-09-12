@@ -1,7 +1,0 @@
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\bin\Debug\ProgramEasy_Lesson2.exe.config
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\bin\Debug\ProgramEasy_Lesson2.exe
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\bin\Debug\ProgramEasy_Lesson2.pdb
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\obj\Debug\ProgramEasy_Lesson2.csprojAssemblyReference.cache
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\obj\Debug\ProgramEasy_Lesson2.csproj.CoreCompileInputs.cache
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\obj\Debug\ProgramEasy_Lesson2.exe
-C:\Users\Зайка\Desktop\C_sharp\tasks\ProgramEasy\ProgramEasy_Lesson2\ProgramEasy_Lesson2\obj\Debug\ProgramEasy_Lesson2.pdb
